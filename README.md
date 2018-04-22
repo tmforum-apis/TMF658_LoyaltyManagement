@@ -1,5 +1,5 @@
 # TMF658_LoyaltyManagement
-TM Forum Open APIs (Apache 2.0) Something Management API
+TM Forum Open APIs (Apache 2.0) Loyalty Management API
 
 Supports the management of loyalty program specifications, loyalty program members,
 their associated products and loyalty accounts with loyalty balances.
